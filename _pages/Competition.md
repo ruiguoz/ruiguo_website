@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## 【NeurIPS 2024】 通用赛道：含不确定性的自动出价Agent
-决赛 **28** 使用offline-RL做决策。
+决赛 **28** 使用offline-RL做决策。https://tianchi.aliyun.com/competition/entrance/532226/rankingList
  <img width="250" alt="通用赛道" src="https://github.com/user-attachments/assets/71354d52-6f2b-44e6-b92e-4f9edb0551e1">
 
 
