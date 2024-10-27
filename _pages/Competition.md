@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f744851b-a010-4d7d-8578-e8a32d05b392)---
 permalink: /Competition/
 title: "Competition"
 author_profile: true
