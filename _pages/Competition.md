@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ## 【NeurIPS 2024】AIGB赛道： 利用生成式模型学习自动出价Agent 阶段性第一（10days）。2024-08-27 07:21:52 - 2024-09-06
+正式赛 第 **5** ； 决赛 第 **20**
 
 <img width="250" alt="NIPS NO 1" src="https://github.com/user-attachments/assets/7c1020ed-bbc8-4477-be28-9b3ae133b08c">
 <img width="250" alt="NIPS NO 1 rank" src="https://github.com/user-attachments/assets/3463c230-6094-442d-ac2f-0cbdc57de34c">
