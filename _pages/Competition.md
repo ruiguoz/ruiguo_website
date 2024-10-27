@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f744851b-a010-4d7d-8578-e8a32d05b392)---
 permalink: /Competition/
 title: "Competition"
 author_profile: true
@@ -6,9 +6,15 @@ redirect_from:
   - /Competition
 ---
 
+## 【NeurIPS 2024】 通用赛道：含不确定性的自动出价Agent
+决赛 **28** 使用offline-RL做决策。
+ <img width="250" alt="通用赛道" src="https://github.com/user-attachments/assets/71354d52-6f2b-44e6-b92e-4f9edb0551e1">
+
+
+
 ## 【NeurIPS 2024】AIGB赛道： 利用生成式模型学习自动出价Agent 阶段性第一（10days）。2024-08-27 07:21:52 - 2024-09-06
 正式赛 第 **5** ； 决赛 第 **20**
-
+使用diffusion 生成模型做决策。
 <img width="250" alt="NIPS NO 1" src="https://github.com/user-attachments/assets/7c1020ed-bbc8-4477-be28-9b3ae133b08c">
 <img width="250" alt="NIPS NO 1 rank" src="https://github.com/user-attachments/assets/3463c230-6094-442d-ac2f-0cbdc57de34c">
 <img width="250" alt="NIPS NO 1 rank score" src="https://github.com/user-attachments/assets/6db8942a-f886-4a21-ad87-8dd865129b25">
