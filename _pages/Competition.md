@@ -1,3 +1,4 @@
+---
 permalink: /Competition/
 title: "Competition"
 author_profile: true
