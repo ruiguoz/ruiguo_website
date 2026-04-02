@@ -25,14 +25,7 @@ Education
   - School of Electronics and Information (entrance exam-free recommendation)
   - Northwestern Polytechnical University
 
-* SEPT. 2020 - JUN. 2022
-  
-  - Honors degree
-  - Received funding from China Scholarship Council
-  - Master
-  - Institute of Robotic and Intelligent Systems
-  - Moscow Aviation Institute
-  
+
   
 * SEPT. 2016 - JUN. 2020
 
