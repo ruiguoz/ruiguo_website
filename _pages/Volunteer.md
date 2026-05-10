@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 审稿（Review）：
-RAL,ICRA, IV，itsc，CDC,IROS.
+RAL,ICRA, IV，itsc，CDC,IROS,ACC.
 
 ![08e2c5d610128cefc2d481b21378af9](https://github.com/user-attachments/assets/274adfe8-355f-46dd-acde-fc8339c04f12)
 2024 书香文化节 宣传HKUSTGZ AI for multi-media
